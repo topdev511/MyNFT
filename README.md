@@ -7,6 +7,7 @@ npx hardhat compile
 npx hardhat run scripts/deploy.js --network ropsten
 
 # Minting NFT
+npm install
 node scripts/mint-nft.js
 
 # Ref URL
